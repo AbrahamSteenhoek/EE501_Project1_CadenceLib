@@ -7,13 +7,13 @@ Navigate to ```EE501_Project1_CadenceLib``` folder
 
 ```git commit -m "<ENTER COMMIT MESSAGE HERE>"```
 
-```git push origin main```
+```git push```
 
 /* double check on repo that files have been added */
 
 # How to get latest changes from repo
 Navigate to ```EE501_Project1_CadenceLib``` folder
 
-```git pull origin main```
+```git pull```
 
 /* Notice that files have been added to your repo */
