@@ -13,6 +13,7 @@ Navigate to ```EE501_Project1_CadenceLib``` folder
 
 # How to get latest changes from repo
 Navigate to ```EE501_Project1_CadenceLib``` folder
+
 ```git pull origin main```
 
 /* Notice that files have been added to your repo */
