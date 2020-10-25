@@ -13,7 +13,6 @@ Navigate to ```EE501_Project1_CadenceLib``` folder
 
 # How to get latest changes from repo
 Navigate to ```EE501_Project1_CadenceLib``` folder
-```git reset --hard HEAD```
 
 ```git pull```
 
@@ -21,6 +20,7 @@ Navigate to ```EE501_Project1_CadenceLib``` folder
 
 # If you are having problems with synchronizing with the main repo
 Navigate to ```EE501_Project1_CadenceLib``` folder
+
 ```git reset --hard HEAD```
 
 ```git pull```
