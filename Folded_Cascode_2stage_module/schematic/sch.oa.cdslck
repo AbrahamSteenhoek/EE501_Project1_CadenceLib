@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      astee
 HostName                       linux-3.ece.iastate.edu
-ProcessIdentifier              21776
-ProcessCreationTime_UTC        1603663722
-ProcessCreationTime_Readable   Sun Oct 25 17:08:42 2020 CDT
+ProcessIdentifier              18279
+ProcessCreationTime_UTC        1603673513
+ProcessCreationTime_Readable   Sun Oct 25 19:51:53 2020 CDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/astee/ee501/cmrf8sf/EE501_Project1_CadenceLib/Folded_Cascode_2stage_module/schematic/sch.oa.cdslck
-TimeEditLocked                 Sun Oct 25 18:03:13 2020 CDT
+TimeEditLocked                 Sun Oct 25 21:25:56 2020 CDT
