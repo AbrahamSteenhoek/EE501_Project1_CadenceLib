@@ -2,3 +2,6 @@
 .oalib
 data.dm
 cdsinfo.tag
+
+*.cdslck*
+
