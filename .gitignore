@@ -4,4 +4,4 @@ data.dm
 cdsinfo.tag
 
 *.cdslck*
-
+results_images/*
